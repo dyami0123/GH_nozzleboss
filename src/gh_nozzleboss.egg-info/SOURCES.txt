@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/gh_nozzleboss/__init__.py
+src/gh_nozzleboss.egg-info/PKG-INFO
+src/gh_nozzleboss.egg-info/SOURCES.txt
+src/gh_nozzleboss.egg-info/dependency_links.txt
+src/gh_nozzleboss.egg-info/top_level.txt
+src/gh_nozzleboss/gcode_lib/GcodeModel.py
+src/gh_nozzleboss/gcode_lib/GcodeParser.py
+src/gh_nozzleboss/gcode_lib/Layer.py
+src/gh_nozzleboss/gcode_lib/Segment.py
+src/gh_nozzleboss/gcode_lib/__init__.py
+src/gh_nozzleboss/helper_lib/__init__.py
+src/gh_nozzleboss/helper_lib/segments_to_meshdata.py
